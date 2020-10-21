@@ -1,0 +1,3 @@
+com/hazelcast/test/AnnotationProcessor.class
+com/hazelcast/test/PublicForTesting.class
+com/hazelcast/test/OnlyForTesting.class
